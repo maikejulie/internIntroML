@@ -14,7 +14,4 @@ Click the "Launch Binder" button below and wait while the repository starts.
 What we will have done is create an online environment where you can execute code by pressing "shift+return" in one of the code cells. If you are on a phone, press the "play" button next to the code cell.
 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maikejulie/parameterEstimation/master?filepath=parameterEstimationAndModelChoice.ipynb)
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maikejulie/internIntroML/blob/master/GFDL_internDemo.ipynb/master?filepath=https%3A%2F%2Fgithub.com%2Fmaikejulie%2FinternIntroML%2Fblob%2Fmaster%2FGFDL_internDemo.ipynb)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maikejulie/internIntroML/blob/master/GFDL_internDemo.ipynb/master)
