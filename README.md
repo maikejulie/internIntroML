@@ -15,3 +15,5 @@ What we will have done is create an online environment where you can execute cod
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/maikejulie/internIntroML/master?filepath=GFDL_internDemo.ipynb)
+
+Today also: https://tinyurl.com/internintroGFDL
